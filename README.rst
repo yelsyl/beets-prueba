@@ -1,14 +1,8 @@
-.. image:: https://img.shields.io/pypi/v/beets.svg
-    :target: https://pypi.python.org/pypi/beets
 
-.. image:: https://img.shields.io/codecov/c/github/beetbox/beets.svg
-    :target: https://app.codecov.io/github/beetbox/beets
-
-.. image:: https://img.shields.io/github/actions/workflow/status/beetbox/beets/ci.yaml
-    :target: https://github.com/beetbox/beets/actions
-
-.. image:: https://repology.org/badge/tiny-repos/beets.svg
-    :target: https://repology.org/project/beets/versions
+Recursos recomendados
+=====
+Csharp = VScode
+BD = NPP
 
 beets
 =====
